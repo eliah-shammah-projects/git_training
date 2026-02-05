@@ -20,4 +20,5 @@ jobs:
 
       - name: Run python files
         run: |
-          python *.py
+          python first_test/main.py
+          python first_test/app.py
